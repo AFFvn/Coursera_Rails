@@ -1,1 +1,1 @@
-# Coursera_Rails
+Repo for Exercising Ruby on Rails, Coursera.org, March 2016
